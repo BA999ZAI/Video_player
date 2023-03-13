@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.videoBlock {
+  width: 100%;
+}
+
+.allEvent {
+  display: flex;
+  margin-left: 20px;
+  overflow-x:scroll;
+}
+
+.timestamp {
+  margin: auto;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  margin-left: 20px;
+}
